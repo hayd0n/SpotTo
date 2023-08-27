@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CCh0mFL20A+vU1WYdzTx5QzlBt/Bi7z6qolnH2cJqH1vPcN1w/ZMiRMHN7IqzorrPAGM26lfnD+4yYvZVKYmLA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\SpotTo\\SpotTo\\SpotTo\\SpotTo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haydon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Haydon\\.nuget\\packages\\spotifyapi.web\\7.0.0\\spotifyapi.web.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
